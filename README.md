@@ -1,5 +1,7 @@
 # Data Communication System Project
 
+![Project Front Page](path_to_your_front_page_image.jpg)
+
 **Course**: CSE-308 (Data Communication Lab)  
 **Institution**: Green University of Bangladesh  
 **Semester**: Fall 2023  
@@ -9,18 +11,25 @@
 
 ---
 
+## Project Overview
+
+[![Project Video Overview](path_to_thumbnail_image.jpg)](https://www.youtube.com/watch?v=your_video_link "Watch the video overview")
+
+This project implements a communication system incorporating **Bit-level data transmission**, **Character-level stuffing and de-stuffing techniques**, and **Parity check mechanisms**. These elements ensure reliable data transfer by managing data integrity and addressing issues like frame synchronization and error detection.
+
+---
+
 ## Table of Contents
-1. [Project Overview](#project-overview)
-2. [Motivation](#motivation)
-3. [Problem Definition](#problem-definition)
-4. [Design Goals and Objectives](#design-goals-and-objectives)
-5. [Applications](#applications)
-6. [Project Details](#project-details)
-7. [Implementation Workflow](#implementation-workflow)
-8. [Tools and Libraries](#tools-and-libraries)
-9. [Performance Evaluation](#performance-evaluation)
-10. [Conclusion](#conclusion)
-11. [Future Work](#future-work)
+1. [Motivation](#motivation)
+2. [Problem Definition](#problem-definition)
+3. [Design Goals and Objectives](#design-goals-and-objectives)
+4. [Applications](#applications)
+5. [Project Details](#project-details)
+6. [Implementation Workflow](#implementation-workflow)
+7. [Tools and Libraries](#tools-and-libraries)
+8. [Performance Evaluation](#performance-evaluation)
+9. [Conclusion](#conclusion)
+10. [Future Work](#future-work)
 
 ---
 
