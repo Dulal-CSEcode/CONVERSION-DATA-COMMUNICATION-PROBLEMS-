@@ -33,12 +33,6 @@ This project implements a communication system incorporating **Bit-level data tr
 
 ---
 
-## Project Overview
-
-This project implements a communication system incorporating **Bit-level data transmission**, **Character-level stuffing and de-stuffing techniques**, and **Parity check mechanisms**. These elements ensure reliable data transfer by managing data integrity and addressing issues like frame synchronization and error detection.
-
----
-
 ## Motivation
 
 Data integrity is a critical concern in modern communication systems. This project aims to enhance error-resistant data transmission by combining Bit-level communication, Character-level manipulation, and Parity checks to provide a more robust and efficient data transfer solution.
